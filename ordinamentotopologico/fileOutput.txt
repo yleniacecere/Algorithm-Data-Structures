@@ -1,0 +1,1 @@
+Valore ->  0, Colore ->  BLACK--> Valore ->  2, Colore ->  BLACK--> Valore ->  1, Colore ->  BLACK--> Valore ->  3, Colore ->  BLACK--> Valore ->  4, Colore ->  BLACK--> NULL
