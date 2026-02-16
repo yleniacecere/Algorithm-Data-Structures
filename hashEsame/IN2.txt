@@ -1,0 +1,10 @@
+5 roma
+15 milano
+25 napoli
+35 torino
+7 venezia
+17 firenze
+27 bologna
+8 palermo
+18 genova
+28 bari
