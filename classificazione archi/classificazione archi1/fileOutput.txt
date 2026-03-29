@@ -1,0 +1,21 @@
+1 -> 0 : Tree Edge
+0 -> 2 : Tree Edge
+2 -> 0 : Back Edge
+2 -> 7 : Tree Edge
+7 -> 4 : Tree Edge
+1 -> 2 : Forward Edge
+3 -> 1 : Cross Edge
+3 -> 8 : Tree Edge
+8 -> 5 : Tree Edge
+5 -> 3 : Back Edge
+6 -> 1 : Cross Edge
+6 -> 2 : Cross Edge
+4
+7
+2
+0
+1
+5
+8
+3
+6
